@@ -1,2 +1,2 @@
 #/bin/bash
-ln /bin/is --is-- 
+ln -s /bin/ls --is-- 
