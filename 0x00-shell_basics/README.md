@@ -4,3 +4,6 @@ cd /:return to home directory.
 ls -l:show the owner and group for the current directory R
 ls -l:show the owner and group for the current directory
 ls -a:show the directory files even hodden ones
+ls -la:
+mkdir filename:to create a directory R
+mkdir filename:to create a directory
