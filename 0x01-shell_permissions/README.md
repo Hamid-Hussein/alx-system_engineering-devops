@@ -8,3 +8,4 @@ chmod 777 hello:script gives all permission to everyone
 chmod 007 hello:script spacified just permission for others
 chmod 753 hello:script gived owner all  permission, groups read and execute permission, others write and execute permisdions
 chmod 664 hello:script give the owner and group  read and write permissns, others just read permossion.
+chmod 111 ./:script add execute permission to the all
