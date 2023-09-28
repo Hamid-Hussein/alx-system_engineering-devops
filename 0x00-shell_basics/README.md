@@ -7,3 +7,4 @@ ls -a:show the directory files even hodden ones
 ls -la:
 mkdir filename:to create a directory R
 mkdir filename:to create a directory
+mv:move or rename the gile
