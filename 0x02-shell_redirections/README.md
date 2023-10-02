@@ -7,3 +7,4 @@ script display the content of the file /etc/passwd
 7-script display the last three line of the file's content
 10-script duplicate the last line
 11-script delete all files from the current directory
+12-script count the of directories and supdirectories in the current directory
