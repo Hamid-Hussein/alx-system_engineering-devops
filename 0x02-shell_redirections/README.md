@@ -3,3 +3,4 @@ script display the content of the file /etc/passwd
 2-script display "(Ôo)'
 4-script display the content of the two files
 5-script display the last three line of content
+6-script display first 10 lines
