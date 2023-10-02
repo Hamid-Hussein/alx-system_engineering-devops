@@ -10,3 +10,4 @@ script display the content of the file /etc/passwd
 12-script count the of directories and supdirectories in the current directory
 13-script display the newist 10 files in the current directory
 15-script display the line that contain the word (roo).
+16-script display the line number contain the pattern 'bin'
