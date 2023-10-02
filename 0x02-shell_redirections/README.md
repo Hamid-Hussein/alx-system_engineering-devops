@@ -8,3 +8,4 @@ script display the content of the file /etc/passwd
 10-script duplicate the last line
 11-script delete all files from the current directory
 12-script count the of directories and supdirectories in the current directory
+13-script display the newist 10 files in the current directory
