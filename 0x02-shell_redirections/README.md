@@ -12,3 +12,4 @@ script display the content of the file /etc/passwd
 15-script display the line that contain the word (roo).
 16-script display the line number contain the pattern 'bin'
 17-script display lines containing the pattern 'root' and 3 lines after them 
+Display all the lines in the file /etc/passwd that do not contain the pattern 'bin'.
