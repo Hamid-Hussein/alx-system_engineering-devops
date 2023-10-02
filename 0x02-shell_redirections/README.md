@@ -11,3 +11,4 @@ script display the content of the file /etc/passwd
 13-script display the newist 10 files in the current directory
 15-script display the line that contain the word (roo).
 16-script display the line number contain the pattern 'bin'
+17-script display lines containing the pattern 'root' and 3 lines after them 
