@@ -6,3 +6,4 @@ script display the content of the file /etc/passwd
 6-script display first 10 lines
 7-script display the last three line of the file's content
 10-script duplicate the last line
+11-script delete all files from the current directory
