@@ -5,3 +5,4 @@
 5-script show global variables
 6-script show all variables and functions
 7-script create local a variable
+8-script create global variable
