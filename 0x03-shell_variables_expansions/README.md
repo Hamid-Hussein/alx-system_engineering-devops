@@ -8,3 +8,4 @@
 8-script create global variable
 9-script append the file
 10-script divide two numbers
+11-script calculate the power
