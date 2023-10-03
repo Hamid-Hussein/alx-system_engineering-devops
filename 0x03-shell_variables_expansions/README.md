@@ -10,3 +10,4 @@
 10-script divide two numbers
 11-script calculate the power
 12-script convert pinery to decimal
+13-script combine two numbers excipt (oo)
