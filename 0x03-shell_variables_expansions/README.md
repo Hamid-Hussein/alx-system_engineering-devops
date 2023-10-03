@@ -7,3 +7,4 @@
 7-script create local a variable
 8-script create global variable
 9-script append the file
+10-script divide two numbers
