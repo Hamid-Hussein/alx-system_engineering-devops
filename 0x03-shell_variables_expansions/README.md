@@ -6,3 +6,4 @@
 6-script show all variables and functions
 7-script create local a variable
 8-script create global variable
+9-script append the file
