@@ -9,3 +9,4 @@
 9-script append the file
 10-script divide two numbers
 11-script calculate the power
+12-script convert pinery to decimal
