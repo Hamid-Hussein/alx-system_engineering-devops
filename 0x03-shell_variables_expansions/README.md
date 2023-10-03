@@ -4,3 +4,4 @@
 4-script count files in path
 5-script show global variables
 6-script show all variables and functions
+7-script create local a variable
