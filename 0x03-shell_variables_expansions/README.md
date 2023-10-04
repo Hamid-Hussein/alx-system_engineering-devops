@@ -12,3 +12,4 @@
 12-script convert pinery to decimal
 13-script combine two numbers excipt (oo)
 14-script print two numbers with tow decimal place
+15-script convert base 10 number to base 16
